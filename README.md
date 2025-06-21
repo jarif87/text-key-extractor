@@ -1,6 +1,6 @@
 # Keyword Extractor
 
-Keyword Extractor (Optional: Add a screenshot of your app in myapp/static/images/ and update the path if available)
+
 
 Keyword Extractor is a Django-based web application that extracts key terms from input text using Term Frequency-Inverse Document Frequency (TF-IDF). The application provides a sleek, user-friendly interface where users can input text, submit it, and receive a list of the top keywords ranked by their TF-IDF scores. The backend leverages scikit-learn’s CountVectorizer and TfidfTransformer to process text, and the frontend uses a modern, responsive design with animated gradients and glassmorphism effects.
 
