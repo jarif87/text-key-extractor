@@ -124,7 +124,7 @@ classification: 0.298
 
 ## Screenshots
 
-![Screenshot](myapp/static/images/image.png)
+![Screenshot](myproject/myapp/static/images/image.png)
 
 
 ## Contributing
